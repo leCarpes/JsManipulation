@@ -86,3 +86,10 @@ button[type="submit"]{
     background-color: var(--primary-color);
     color: white;
 }
+
+table, 
+tr, 
+th{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
